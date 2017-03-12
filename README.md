@@ -8,7 +8,7 @@ spring boot + jsoup + redis 抓取CSDN每周干货知识
 
 3、数据库已配置好，也可以将数据持久化到数据库
 
-可以访问 `[http://anxpp.com:8765/article/get/stage/1][1]` 测试：
+可以访问 [http://anxpp.com:8765/article/get/stage/1][1] 测试：
 
     [
         {
