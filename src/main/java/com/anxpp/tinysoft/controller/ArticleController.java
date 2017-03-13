@@ -18,7 +18,6 @@ import java.util.List;
 @Controller
 @RequestMapping("/article")
 public class ArticleController {
-
     @Resource
     private ArticleService articleService;
 

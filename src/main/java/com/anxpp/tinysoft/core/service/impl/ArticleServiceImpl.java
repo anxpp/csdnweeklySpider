@@ -17,10 +17,8 @@ import java.util.List;
  */
 @Service
 public class ArticleServiceImpl implements ArticleService {
-
     @Value("${csdn.weekly.preurl}")
     private String preUrl;
-
     @Resource
     private CsdnWeeklyDocumentAnalyzer csdnWeeklyDocumentAnalyzer;
 

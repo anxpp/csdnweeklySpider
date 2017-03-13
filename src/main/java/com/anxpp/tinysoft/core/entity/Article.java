@@ -9,8 +9,7 @@ import java.util.Date;
  */
 @Entity
 @Table(name = "t_csdn_weekly_article")
-public class Article extends BaseEntity{
-
+public class Article extends BaseEntity {
     /**
      * 文章名称
      */

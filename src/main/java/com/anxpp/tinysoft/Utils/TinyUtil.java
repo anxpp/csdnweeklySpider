@@ -9,7 +9,6 @@ import java.util.Set;
  * Created by anxpp.com on 2017/3/11.
  */
 class TinyUtil {
-
     /**
      * map转对象
      *
